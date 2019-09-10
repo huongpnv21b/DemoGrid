@@ -7,26 +7,24 @@
 	'menu contens contens'
 	'footer footer footer';
 	grid-template-columns: 150px auto ;
-
-	}
-
+}
 .header{
     grid-area: header;
     background-color: pink;
-	}
-.menubar{
+}
+.mainbar{
 	grid-area: menuBar;
 	background-color: yellow;
-	}
+}
 .menu{
 	grid-area: menu;
 	background-color: green;
-	}
+}
 .content{
-	grid-area: contens;
+	grid-area: content;
 	background-color: blue;
 	}
 .footer{
 	grid-area: footer;
 	background-color: orange;
-		}
+}
