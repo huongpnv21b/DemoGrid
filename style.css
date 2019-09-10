@@ -12,8 +12,8 @@
     grid-area: header;
     background-color: pink;
 }
-.menubar{
-	grid-area: menuBar;
+.mainbar{
+	grid-area: mainBar;
 	background-color: yellow;
 }
 .menu{
