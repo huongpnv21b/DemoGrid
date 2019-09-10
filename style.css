@@ -4,7 +4,7 @@
 	grid-template-areas: 
 	'header header header'
 	'menuBar menuBar menuBar'
-	'menu contens contens'
+	'menu content content'
 	'footer footer footer';
 	grid-template-columns: 150px auto ;
 }
