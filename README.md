@@ -1,2 +1,2 @@
 # DemoGrid
-![alt text](screenshots/grid.png "Description goes here")
+![alt text](screenshots/1.png "Description goes here")
